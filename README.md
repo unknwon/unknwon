@@ -4,7 +4,7 @@
 
 Here are some quick things about me:
 
-- 🔭 I'm a Software Engineer at [@sourcegraph](https://github.com/sourcegraph), and [we're looking for talents like you](https://jobs.lever.co/sourcegraph?lever-via=ZcKTMdXBhg)! 
+- 🔭 I'm a Software Engineer at [@sourcegraph](https://github.com/sourcegraph), and [we're looking for talents like you](https://jobs.lever.co/sourcegraph)! 
 - 🧑‍💻 Coding is my passion.
 - 📫 The best way to reach me is to send me an email.
 - ⚡ Fun fact: I once drove to the [Half Moon Bay](https://www.google.com/maps/place/Half+Moon+Bay,+CA,+USA) for sun rise.
