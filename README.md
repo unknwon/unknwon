@@ -9,7 +9,7 @@ Here are some quick things about me:
 - 📫 The best way to reach me is to send me an email.
 - ⚡ Fun fact: I once drove to the [Half Moon Bay](https://www.google.com/maps/place/Half+Moon+Bay,+CA,+USA) for sun rise.
 
-Some cool gadgets I made:
+Some cool gadgets I worked on:
 
 - 🚩 [Gogs](https://github.com/gogs/Gogs) - A painless self-hosted Git service / [★36833](https://github.com/gogs/Gogs/stargazers) / `Test`
 
