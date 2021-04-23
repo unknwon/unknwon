@@ -1,0 +1,6 @@
+projects:
+  - icon: 🚩
+    link: https://github.com/gogs/Gogs
+    desc: A painless self-hosted Git service
+    tags:
+      - Test
