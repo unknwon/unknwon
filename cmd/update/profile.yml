@@ -1,6 +1,7 @@
 projects:
-  - icon: 🚩
+  - icon: 🎃
     link: https://github.com/gogs/Gogs
     desc: A painless self-hosted Git service
-    tags:
-      - Test
+  - icon: 🐣
+    link: https://github.com/sourcegraph/Sourcegraph
+    desc: Universal code search (self-hosted)
