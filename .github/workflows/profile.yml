@@ -24,7 +24,9 @@ jobs:
 
       - name: Build & Run
         run: |
-          go run cmd/update/main.go
+          pushd cmd/update
+          go run main.go -output=../../README.md
+          popd
 
       - name: Git commit
         run: |

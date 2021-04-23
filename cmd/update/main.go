@@ -3,6 +3,7 @@ package main
 import (
 	"bytes"
 	"encoding/json"
+	"flag"
 	"fmt"
 	"net/http"
 	"os"
@@ -27,6 +28,10 @@ type profile struct {
 }
 
 func main() {
+	template := flag.String("template", "README_template.md", "Template path for the README.md")
+	output := flag.String("output", "README.md", "Output path for the README.md")
+	flag.Parse()
+
 	defer log.Stop()
 	err := log.NewConsole()
 	if err != nil {
@@ -44,7 +49,7 @@ func main() {
 		log.Fatal("Failed to unmarshal profile: %v", err)
 	}
 
-	readmeBytes, err := os.ReadFile("README_template.md")
+	readmeBytes, err := os.ReadFile(*template)
 	if err != nil {
 		log.Fatal("Failed to read README template: %v", err)
 	}
@@ -52,7 +57,7 @@ func main() {
 	projectsMarkdown := makeProjectMarkdown(profile.Projects)
 	readmeBytes = bytes.ReplaceAll(readmeBytes, []byte("{{PROJECTS}}"), []byte(projectsMarkdown))
 
-	err = os.WriteFile("README.md", readmeBytes, 0644)
+	err = os.WriteFile(*output, readmeBytes, 0644)
 	if err != nil {
 		log.Fatal("Failed to write README.md: %v", err)
 	}
