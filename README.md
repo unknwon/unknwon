@@ -13,7 +13,7 @@ Some cool gadgets I worked on:
 
 - 🎃 [Gogs](https://github.com/gogs/Gogs) - A painless self-hosted Git service [gogs.io](https://gogs.io) / [★36848](https://github.com/gogs/Gogs/stargazers) 
 - 🐣 [Sourcegraph](https://github.com/sourcegraph/Sourcegraph) - Universal code search [sourcegraph.com](https://sourcegraph.com) / [★4607](https://github.com/sourcegraph/Sourcegraph/stargazers) 
-- 🐳 [INI](https://github.com/go-ini/INI) - INI file read and write functionality in Go [ini.unknwon.io](https://ini.unknwon.io) / [★2463](https://github.com/go-ini/INI/stargazers) 
+- 🐳 [INI](https://github.com/go-ini/INI) - INI file read and write functionality in Go [ini.unknwon.io](https://ini.unknwon.io) / [★2464](https://github.com/go-ini/INI/stargazers) 
 
 
 _Made by [@wuhan005](https://github.com/wuhan005/wuhan005)_
