@@ -1,4 +1,8 @@
 projects:
+  - icon: 🍩
+    name: Go Code Convention
+    link: github.com/unknwon/go-code-convention
+    desc: A opinionated and paranoid Go code convention
   - icon: 🎃
     link: https://github.com/gogs/Gogs
     desc: A painless self-hosted Git service [gogs.io](https://gogs.io)
