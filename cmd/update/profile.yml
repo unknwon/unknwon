@@ -1,7 +1,7 @@
 projects:
   - icon: 🍩
     name: Go Code Convention
-    link: github.com/unknwon/go-code-convention
+    link: https://github.com/unknwon/go-code-convention
     desc: A opinionated and paranoid Go code convention
   - icon: 🎃
     link: https://github.com/gogs/Gogs
