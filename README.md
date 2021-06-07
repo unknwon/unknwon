@@ -12,8 +12,8 @@ Here are some quick things about me:
 Some cool gadgets I worked on:
 
 - 🍩 [Go Code Convention](https://github.com/unknwon/go-code-convention) - A opinionated and paranoid Go code convention / [★326](https://github.com/unknwon/go-code-convention/stargazers) 
-- 🎃 [Gogs](https://github.com/gogs/Gogs) - A painless self-hosted Git service [gogs.io](https://gogs.io) / [★37141](https://github.com/gogs/Gogs/stargazers) 
-- 🐣 [Sourcegraph](https://github.com/sourcegraph/Sourcegraph) - Universal code search [sourcegraph.com](https://sourcegraph.com) / [★4730](https://github.com/sourcegraph/Sourcegraph/stargazers) 
+- 🎃 [Gogs](https://github.com/gogs/Gogs) - A painless self-hosted Git service [gogs.io](https://gogs.io) / [★37142](https://github.com/gogs/Gogs/stargazers) 
+- 🐣 [Sourcegraph](https://github.com/sourcegraph/Sourcegraph) - Universal code search [sourcegraph.com](https://sourcegraph.com) / [★4731](https://github.com/sourcegraph/Sourcegraph/stargazers) 
 - 🐳 [INI](https://github.com/go-ini/INI) - INI file read and write functionality in Go [ini.unknwon.io](https://ini.unknwon.io) / [★2509](https://github.com/go-ini/INI/stargazers) 
 
 
