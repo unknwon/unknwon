@@ -9,6 +9,9 @@ projects:
   - icon: 🐣
     link: https://github.com/sourcegraph/Sourcegraph
     desc: Universal code search [sourcegraph.com](https://sourcegraph.com)
+  - icon: 🧙
+    link: https://github.com/flamego/Flamego
+    desc: A fantastic modular Go web framework boiled with dependency injection [flamego.dev](https://flamego.dev)
   - icon: 🐳
     link: https://github.com/go-ini/INI
     desc: INI file read and write functionality in Go [ini.unknwon.io](https://ini.unknwon.io)
