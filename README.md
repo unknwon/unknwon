@@ -11,4 +11,4 @@ Here are some quick things about me:
 - 📫 The best way to reach me is to send me an email.
 - ⚡ Fun fact: I once drove to the [Half Moon Bay](https://www.google.com/maps/place/Half+Moon+Bay,+CA,+USA) for sun rise.
 
-Last but not the least, [we're hiring](https://grnh.se/6770e0974us) at [Sourcegraph](https://about.sourcegraph.com/)!
+Last but not the least, [we're hiring](https://grnh.se/6770e0974us) at [Sourcegraph](https://sourcegraph.com/)!
