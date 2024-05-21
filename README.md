@@ -10,5 +10,4 @@ Here are some quick things about me:
 - 🧑‍💻 Coding is my passion.
 - 📫 The best way to reach me is to send me an email.
 - ⚡ Fun fact: I once drove to the [Half Moon Bay](https://www.google.com/maps/place/Half+Moon+Bay,+CA,+USA) for sun rise (hint: it's on the west coast).
-
-Last but not the least, [we're hiring](https://grnh.se/6770e0974us) at [Sourcegraph](https://sourcegraph.com/)!
+- 📰 If you like my work, please consider give my newsletter [Identity, Authenticity, and Security](https://unknwon.substack.com/) a look!
