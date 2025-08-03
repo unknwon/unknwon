@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/ecffbb30-a721-47b8-bfbd-d9cb5ab9f83d" />
+
 ### Hi there 👋
 
 **Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
